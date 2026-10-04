@@ -1,0 +1,67 @@
+feature,coefficient
+cat__International_Transaction_Yes,0.6047874020332088
+cat__Transaction_Type_Transfer,0.5796012804385401
+cat__International_Transaction_No,-0.5174300560451163
+cat__Transaction_Type_Cash Withdrawal,0.5131541090847445
+num__is_night,0.3426304252126548
+num__Amount_NGN,0.33843152840659413
+cat__Transaction_Type_Deposit,-0.3334267094477509
+cat__Transaction_Type_Card Purchase,-0.28024080155442443
+cat__Transaction_Type_Bill Payment,-0.2633141566063865
+cat__Channel_ATM,0.18985619882748622
+cat__Device_Type_ATM Terminal,0.14381206060316368
+cat__Transaction_Type_Airtime/Data,-0.12841637592662705
+cat__Channel_USSD,-0.11823949184295707
+num__log_amount,-0.09998037454861272
+cat__Location_Abuja,-0.09916241567260568
+num__prev_tx_amount,-0.08708164404700533
+cat__Account_Type_Savings,0.08501391855170999
+cat__Monthly_Income_Band_250k-499k,0.08472716154717798
+cat__Channel_Web,0.08368832200357006
+cat__Preferred_Channel_USSD,0.07771646826163375
+cat__Account_Type_Premium,0.07655302570039828
+cat__Account_Type_Current,-0.07420959826401476
+cat__Location_Benin City,0.07404311714502544
+cat__City_Benin City,0.0734422859956836
+cat__Customer_Segment_Premium,0.06919191056897306
+cat__Gender_Female,0.06788449039462696
+cat__Monthly_Income_Band_100k-249k,0.06754628035638052
+cat__Preferred_Channel_Mobile App,0.06485562374999387
+cat__Location_Kano,0.06416906854907206
+num__customer_tx_count,0.057775663797469866
+cat__City_Kano,-0.056510036660054844
+cat__Preferred_Channel_Web,-0.05521474602353417
+cat__City_Kaduna,0.050967938380390515
+cat__City_Ibadan,0.048886341923023616
+cat__City_Lagos,-0.04859897314398404
+cat__Location_Ibadan,0.04689905267219984
+num__Tenure_Months,-0.046815884848253345
+cat__Channel_POS,-0.04178896162860583
+num__Digital_Engagement_Score,0.03923965060319163
+cat__Location_Enugu,-0.037157069081395044
+cat__Monthly_Income_Band_1m+,-0.03673689475829158
+cat__City_Port Harcourt,-0.03594027270233112
+cat__Location_Port Harcourt,0.03490330413495703
+num__amount_vs_customer_median,-0.032450158788759106
+cat__Customer_Segment_Everyday,-0.03026103198063214
+cat__City_Abuja,0.03010482010668233
+cat__Customer_Segment_Student,0.026918851001302996
+cat__Channel_Mobile App,-0.02615872137139889
+cat__Device_Type_POS Terminal,-0.025362620815798292
+cat__City_Enugu,0.02500524208868464
+cat__Device_Type_Android,-0.02336086156964519
+cat__Customer_Segment_SME,0.021507616398450415
+cat__Device_Type_iOS,-0.02118425037563159
+num__transaction_hour,0.0204484676634583
+cat__Gender_Male,0.020069411348725637
+num__is_weekend,0.017412732369909728
+cat__Monthly_Income_Band_500k-999k,-0.01538683733402525
+num__amount_vs_customer_mean,0.015187577092507945
+cat__Device_Type_Web Browser,0.013453018146005503
+cat__Monthly_Income_Band_Below 100k,-0.012792363823146328
+cat__Location_Kaduna,0.010860106631787858
+num__time_since_last_tx_hours,-0.008518198135325354
+cat__Location_Lagos,-0.00719781839094587
+num__Age,-0.00528686121251458
+num__day_of_week,-0.0029052319415256134
+cat__Gender_Prefer not to say,-0.0005965557552574791

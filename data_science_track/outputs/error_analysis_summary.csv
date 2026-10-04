@@ -1,0 +1,59 @@
+Transaction_Type,Channel,count,error_type
+Airtime/Data,ATM,6,false_positive
+Airtime/Data,Mobile App,19,false_positive
+Airtime/Data,POS,9,false_positive
+Airtime/Data,USSD,2,false_positive
+Airtime/Data,Web,4,false_positive
+Bill Payment,ATM,11,false_positive
+Bill Payment,Mobile App,16,false_positive
+Bill Payment,POS,3,false_positive
+Bill Payment,USSD,1,false_positive
+Bill Payment,Web,9,false_positive
+Card Purchase,ATM,23,false_positive
+Card Purchase,Mobile App,33,false_positive
+Card Purchase,POS,15,false_positive
+Card Purchase,USSD,7,false_positive
+Card Purchase,Web,16,false_positive
+Cash Withdrawal,ATM,27,false_positive
+Cash Withdrawal,Mobile App,71,false_positive
+Cash Withdrawal,POS,31,false_positive
+Cash Withdrawal,USSD,5,false_positive
+Cash Withdrawal,Web,37,false_positive
+Deposit,ATM,15,false_positive
+Deposit,Mobile App,19,false_positive
+Deposit,POS,11,false_positive
+Deposit,USSD,3,false_positive
+Deposit,Web,9,false_positive
+Transfer,ATM,86,false_positive
+Transfer,Mobile App,186,false_positive
+Transfer,POS,85,false_positive
+Transfer,USSD,29,false_positive
+Transfer,Web,59,false_positive
+Airtime/Data,ATM,1,false_negative
+Airtime/Data,Mobile App,8,false_negative
+Airtime/Data,POS,3,false_negative
+Airtime/Data,USSD,1,false_negative
+Airtime/Data,Web,6,false_negative
+Bill Payment,ATM,2,false_negative
+Bill Payment,Mobile App,7,false_negative
+Bill Payment,POS,7,false_negative
+Bill Payment,USSD,2,false_negative
+Bill Payment,Web,4,false_negative
+Card Purchase,ATM,4,false_negative
+Card Purchase,Mobile App,23,false_negative
+Card Purchase,POS,3,false_negative
+Card Purchase,USSD,3,false_negative
+Card Purchase,Web,9,false_negative
+Cash Withdrawal,Mobile App,4,false_negative
+Cash Withdrawal,POS,7,false_negative
+Cash Withdrawal,USSD,1,false_negative
+Cash Withdrawal,Web,1,false_negative
+Deposit,ATM,2,false_negative
+Deposit,Mobile App,13,false_negative
+Deposit,POS,5,false_negative
+Deposit,USSD,4,false_negative
+Deposit,Web,4,false_negative
+Transfer,Mobile App,11,false_negative
+Transfer,POS,2,false_negative
+Transfer,USSD,3,false_negative
+Transfer,Web,2,false_negative
